@@ -1,0 +1,11 @@
+GITHUB READY PORTFOLIO
+
+1. Extract this ZIP.
+2. Open the extracted folder.
+3. Select ALL files and folders INSIDE it (do not upload the ZIP itself).
+4. Drag them into GitHub > Add file > Upload files.
+5. Commit changes.
+6. For GitHub Pages: Settings > Pages > Deploy from a branch > main / root.
+
+Optimized for browser upload: all individual files are under 4 MB.
+index.html is directly at repository root.
